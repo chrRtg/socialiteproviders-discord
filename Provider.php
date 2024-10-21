@@ -15,7 +15,6 @@ class Provider extends AbstractProvider
      */
     protected $scopes = [
         'identify',
-        'email',
     ];
 
     /**
